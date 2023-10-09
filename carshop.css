@@ -2,14 +2,14 @@
 
 body{
   background: url("lambo.jpg"); 
-  background-position: center center ;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
-    font-family:Arial, Helvetica, sans-serif;
+  font-family:Arial, Helvetica, sans-serif;
     
 
 }
+
+
 .pagecontainer
 {
 padding: 10px;
